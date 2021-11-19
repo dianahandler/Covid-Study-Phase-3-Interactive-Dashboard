@@ -1,0 +1,607 @@
+{
+    "names":[ "Plate 1", "Plate 2", "Plate 3", "Plate 4","Plate 5","Plate 6","Plate 7","Plate 8","Plate 9","Plate 10","Plate 11","Plate 12","Plate 13","Plate 14","Plate 15","Plate 16","Plate 17","Plate 18","Plate 19","Plate 20","Plate 21","Plate 22","Plate 23","Plate 24","Plate 25","Plate 26","Plate 27","Plate 28","Plate 29","Plate 30","Plate 31","Plate 32","Plate 33","Plate 34","Plate 35","Plate 36","Plate 37","Plate 38","Plate 39","Plate 40","Plate 41","Plate 42","Plate 43","Plate 44","Plate 45","Plate 46"],
+    "metadata":[
+        {
+        "id": "Plate 1",
+        "Thawed": 20,
+        "Tossed": 1,
+        "Acquired": 19,
+        "Stain Date": "8/4/2021",
+        "Events Collected": 12522743
+      },
+      {
+        "id": "Plate 2",
+        "Thawed": 20,
+        "Tossed": 12,
+        "Acquired": 8,
+        "Stain Date": "8/4/2021",
+        "Events Collected": 6305881
+      },
+      {
+        "id": "Plate 3",
+        "Thawed": 19,
+        "Tossed": 3,
+        "Acquired": 16,
+        "Stain Date": "8/13/2021",
+        "Events Collected": 9092141
+      },
+      {
+        "id": "Plate 4",
+        "Thawed": 19,
+        "Tossed": 0,
+        "Acquired": 19,
+        "Stain Date": "8/13/2021",
+        "Events Collected": 9230305
+      },
+      {
+        "id": "Plate 5",
+        "Thawed": 19,
+        "Tossed": 3,
+        "Acquired": 16,
+        "Stain Date": "8/20/2021",
+        "Events Collected": 11664272
+      },
+      {
+        "id": "Plate 6",
+        "Thawed": 20,
+        "Tossed": 3,
+        "Acquired": 17,
+        "Stain Date": "8/20/2021",
+        "Events Collected": 12171197
+      },
+      {
+        "id": "Plate 7",
+        "Thawed": 18,
+        "Tossed": 3,
+        "Acquired": 15,
+        "Stain Date": "8/25/2021",
+        "Events Collected": 6947720
+      },
+      {
+        "id": "Plate 8",
+        "Thawed": 17,
+        "Tossed": 3,
+        "Acquired": 14,
+        "Stain Date": "8/25/2021",
+        "Events Collected": 10007022
+      },
+      {
+        "id": "Plate 9",
+        "Thawed": 19,
+        "Tossed": 7,
+        "Acquired": 12,
+        "Stain Date": "8/25/2021",
+        "Events Collected": 8278987
+      },
+      {
+        "id": "Plate 10",
+        "Thawed": 20,
+        "Tossed": 3,
+        "Acquired": 17,
+        "Stain Date": "8/25/2021",
+        "Events Collected": 8829336
+      },
+      {
+        "id": "Plate 11",
+        "Thawed": 20,
+        "Tossed": 3,
+        "Acquired": 17,
+        "Stain Date": "9/3/2021",
+        "Events Collected": 6767395
+      },
+      {
+        "id": "Plate 12",
+        "Thawed": 20,
+        "Tossed": 1,
+        "Acquired": 19,
+        "Stain Date": "9/3/2021",
+        "Events Collected": 8574494
+      },
+      {
+        "id": "Plate 13",
+        "Thawed": 20,
+        "Tossed": 2,
+        "Acquired": 18,
+        "Stain Date": "9/3/2021",
+        "Events Collected": 6795749
+      },
+      {
+        "id": "Plate 14",
+        "Thawed": 20,
+        "Tossed": 3,
+        "Acquired": 17,
+        "Stain Date": "9/3/2021",
+        "Events Collected": 7435679
+      },
+      {
+        "id": "Plate 15",
+        "Thawed": 20,
+        "Tossed": 2,
+        "Acquired": 18,
+        "Stain Date": "9/9/2021",
+        "Events Collected": 8196483
+      },
+      {
+        "id": "Plate 16",
+        "Thawed": 18,
+        "Tossed": 4,
+        "Acquired": 14,
+        "Stain Date": "9/9/2021",
+        "Events Collected": 7260651
+      },
+      {
+        "id": "Plate 17",
+        "Thawed": 20,
+        "Tossed": 3,
+        "Acquired": 17,
+        "Stain Date": "9/14/2021",
+        "Events Collected": 5118641
+      },
+      {
+        "id": "Plate 18",
+        "Thawed": 19,
+        "Tossed": 2,
+        "Acquired": 17,
+        "Stain Date": "9/14/2021",
+        "Events Collected": 7057232
+      },
+      {
+        "id": "Plate 19",
+        "Thawed": 18,
+        "Tossed": 3,
+        "Acquired": 15,
+        "Stain Date": "9/14/2021",
+        "Events Collected": 7282907
+      },
+      {
+        "id": "Plate 20",
+        "Thawed": 20,
+        "Tossed": 8,
+        "Acquired": 12,
+        "Stain Date": "9/14/2021",
+        "Events Collected": 7524527
+      },
+      {
+        "id": "Plate 21",
+        "Thawed": 20,
+        "Tossed": 5,
+        "Acquired": 15,
+        "Stain Date": "9/21/2021",
+        "Events Collected": 7106705
+      },
+      {
+        "id": "Plate 22",
+        "Thawed": 20,
+        "Tossed": 6,
+        "Acquired": 14,
+        "Stain Date": "9/21/2021",
+        "Events Collected": 7401295
+      },
+      {
+        "id": "Plate 23",
+        "Thawed": 20,
+        "Tossed": 0,
+        "Acquired": 20,
+        "Stain Date": "9/21/2021",
+        "Events Collected": 6681101
+      },
+      {
+        "id": "Plate 24",
+        "Thawed": 20,
+        "Tossed": 6,
+        "Acquired": 14,
+        "Stain Date": "9/21/2021",
+        "Events Collected": 6586789
+      },
+      {
+        "id": "Plate 25",
+        "Thawed": 20,
+        "Tossed": 4,
+        "Acquired": 16,
+        "Stain Date": "9/28/2021",
+        "Events Collected": 6170381
+      },
+      {
+        "id": "Plate 26",
+        "Thawed": 20,
+        "Tossed": 5,
+        "Acquired": 15,
+        "Stain Date": "9/28/2021",
+        "Events Collected": 6595534
+      },
+      {
+        "id": "Plate 27",
+        "Thawed": 20,
+        "Tossed": 1,
+        "Acquired": 19,
+        "Stain Date": "9/28/2021",
+        "Events Collected": 7243589
+      },
+      {
+        "id": "Plate 28",
+        "Thawed": 19,
+        "Tossed": 6,
+        "Acquired": 13,
+        "Stain Date": "9/28/2021",
+        "Events Collected": 6393927
+      },
+      {
+        "id": "Plate 29",
+        "Thawed": 20,
+        "Tossed": 3,
+        "Acquired": 17,
+        "Stain Date": "10/5/2021",
+        "Events Collected": 6732198
+      },
+      {
+        "id": "Plate 30",
+        "Thawed": 20,
+        "Tossed": 6,
+        "Acquired": 14,
+        "Stain Date": "10/5/2021",
+        "Events Collected": 5920496
+      },
+      {
+        "id": "Plate 31",
+        "Thawed": 20,
+        "Tossed": 9,
+        "Acquired": 11,
+        "Stain Date": "10/5/2021",
+        "Events Collected": 6326609
+      },
+      {
+        "id": "Plate 32",
+        "Thawed": 19,
+        "Tossed": 6,
+        "Acquired": 13,
+        "Stain Date": "10/5/2021",
+        "Events Collected": 8466009
+      },
+      {
+        "id": "Plate 33",
+        "Thawed": 19,
+        "Tossed": 2,
+        "Acquired": 17,
+        "Stain Date": "10/12/2021",
+        "Events Collected": 6244749
+      },
+      {
+        "id": "Plate 34",
+        "Thawed": 20,
+        "Tossed": 5,
+        "Acquired": 15,
+        "Stain Date": "10/12/2021",
+        "Events Collected": 5501291
+      },
+      {
+        "id": "Plate 35",
+        "Thawed": 20,
+        "Tossed": 5,
+        "Acquired": 15,
+        "Stain Date": "10/12/2021",
+        "Events Collected": 6805645
+      },
+      {
+        "id": "Plate 36",
+        "Thawed": 19,
+        "Tossed": 2,
+        "Acquired": 17,
+        "Stain Date": "10/12/2021",
+        "Events Collected": 5930804
+      },
+      {
+        "id": "Plate 37",
+        "Thawed": 16,
+        "Tossed": 2,
+        "Acquired": 14,
+        "Stain Date": "10/19/2021",
+        "Events Collected": 7314752
+      },
+      {
+        "id": "Plate 38",
+        "Thawed": 20,
+        "Tossed": 3,
+        "Acquired": 17,
+        "Stain Date": "10/19/2021",
+        "Events Collected": 6942776
+      },
+      {
+        "id": "Plate 39",
+        "Thawed": 18,
+        "Tossed": 4,
+        "Acquired": 14,
+        "Stain Date": "10/19/2021",
+        "Events Collected": 6843636
+      },
+      {
+        "id": "Plate 40",
+        "Thawed": 19,
+        "Tossed": 6,
+        "Acquired": 13,
+        "Stain Date": "10/19/2021",
+        "Events Collected": 7358677
+      },
+      {
+        "id": "Plate 41",
+        "Thawed": 20,
+        "Tossed": 2,
+        "Acquired": 18,
+        "Stain Date": "10/26/2021",
+        "Events Collected": 6241527
+      },
+      {
+        "id": "Plate 42",
+        "Thawed": 19,
+        "Tossed": 8,
+        "Acquired": 11,
+        "Stain Date": "10/26/2021",
+        "Events Collected": 5462015
+      },
+      {
+        "id": "Plate 43",
+        "Thawed": 20,
+        "Tossed": 1,
+        "Acquired": 19,
+        "Stain Date": "10/26/2021",
+        "Events Collected": 5941920
+      },
+      {
+        "id": "Plate 44",
+        "Thawed": 20,
+        "Tossed": 1,
+        "Acquired": 19,
+        "Stain Date": "10/26/2021",
+        "Events Collected": 6774144
+      },
+      {
+        "id": "Plate 45",
+        "Thawed": 19,
+        "Tossed": 3,
+        "Acquired": 16,
+        "Stain Date": "11/2/2021",
+        "Events Collected": 7776090
+      },
+      {
+        "id": "Plate 46",
+        "Thawed": 14,
+        "Tossed": 1,
+        "Acquired": 13,
+        "Stain Date": "11/2/2021",
+        "Events Collected": 6402917
+      }
+    ],
+
+
+      "samples":[
+        {
+          "id": "Plate 1",
+          "otu_id": ["24 HRS", "96 HRS", "VISIT 1", "VISIT 2", "VISIT 3", "VISIT 4", "VISIT 5", "VISIT 6"],
+          "sample_values": [0,0,0,0,0,1,0,0]
+        },
+        {
+          "id": "Plate 2",
+          "otu_id": ["24 HRS", "96 HRS", "VISIT 1", "VISIT 2", "VISIT 3", "VISIT 4", "VISIT 5", "VISIT 6"],
+          "sample_values": [2,0,2,2,3,2,1,0]
+        },
+        {
+          "id": "Plate 3",
+          "otu_id": ["24 HRS", "96 HRS", "VISIT 1", "VISIT 2", "VISIT 3", "VISIT 4", "VISIT 5", "VISIT 6"],
+          "sample_values": [0,0,0,2,0,0,0,1]
+        },
+        {
+          "id": "Plate 4",
+          "otu_id": ["24 HRS", "96 HRS", "VISIT 1", "VISIT 2", "VISIT 3", "VISIT 4", "VISIT 5", "VISIT 6"],
+          "sample_values": [0,0,0,0,0,0,0,0]
+        },
+        {
+          "id": "Plate 5",
+          "otu_id": ["24 HRS", "96 HRS", "VISIT 1", "VISIT 2", "VISIT 3", "VISIT 4", "VISIT 5", "VISIT 6"],
+          "sample_values": [0,0,1,1,0,0,0,1]
+        },
+        {
+          "id": "Plate 6",
+          "otu_id": ["24 HRS", "96 HRS", "VISIT 1", "VISIT 2", "VISIT 3", "VISIT 4", "VISIT 5", "VISIT 6"],
+          "sample_values": [0,0,3,0,0,0,0,0]
+        },
+        {
+          "id": "Plate 7",
+          "otu_id": ["24 HRS", "96 HRS", "VISIT 1", "VISIT 2", "VISIT 3", "VISIT 4", "VISIT 5", "VISIT 6"],
+          "sample_values": [0,0,1,0,0,1,0,1]
+        },
+        {
+          "id": "Plate 8",
+          "otu_id": ["24 HRS", "96 HRS", "VISIT 1", "VISIT 2", "VISIT 3", "VISIT 4", "VISIT 5", "VISIT 6"],
+          "sample_values": [0,0,2,0,1,0,0,0]
+        },
+        {
+          "id": "Plate 9",
+          "otu_id": ["24 HRS", "96 HRS", "VISIT 1", "VISIT 2", "VISIT 3", "VISIT 4", "VISIT 5", "VISIT 6"],
+          "sample_values": [1,0,2,2,1,0,0,1]
+        },
+        {
+          "id": "Plate 10",
+          "otu_id": ["24 HRS", "96 HRS", "VISIT 1", "VISIT 2", "VISIT 3", "VISIT 4", "VISIT 5", "VISIT 6"],
+          "sample_values": [0,0,2,1,0,0,0,0]
+        },
+        {
+          "id": "Plate 11",
+          "otu_id": ["24 HRS", "96 HRS", "VISIT 1", "VISIT 2", "VISIT 3", "VISIT 4", "VISIT 5", "VISIT 6"],
+          "sample_values": [0,0,1,1,1,0,0,0]
+        },
+        {
+          "id": "Plate 12",
+          "otu_id": ["24 HRS", "96 HRS", "VISIT 1", "VISIT 2", "VISIT 3", "VISIT 4", "VISIT 5", "VISIT 6"],
+          "sample_values": [0,0,0,0,0,0,0,1]
+        },
+        {
+          "id": "Plate 13",
+          "otu_id": ["24 HRS", "96 HRS", "VISIT 1", "VISIT 2", "VISIT 3", "VISIT 4", "VISIT 5", "VISIT 6"],
+          "sample_values": [0,0,1,0,0,1,0,0]
+        },
+        {
+          "id": "Plate 14",
+          "otu_id": ["24 HRS", "96 HRS", "VISIT 1", "VISIT 2", "VISIT 3", "VISIT 4", "VISIT 5", "VISIT 6"],
+          "sample_values": [0,0,1,1,1,0,0,0]
+        },
+        {
+          "id": "Plate 15",
+          "otu_id": ["24 HRS", "96 HRS", "VISIT 1", "VISIT 2", "VISIT 3", "VISIT 4", "VISIT 5", "VISIT 6"],
+          "sample_values": [0,0,0,1,0,1,0,0]
+        },
+        {
+          "id": "Plate 16",
+          "otu_id": ["24 HRS", "96 HRS", "VISIT 1", "VISIT 2", "VISIT 3", "VISIT 4", "VISIT 5", "VISIT 6"],
+          "sample_values": [0,0,1,2,1,0,0,0]
+        },
+        {
+          "id": "Plate 17",
+          "otu_id": ["24 HRS", "96 HRS", "VISIT 1", "VISIT 2", "VISIT 3", "VISIT 4", "VISIT 5", "VISIT 6"],
+          "sample_values": [0,0,1,1,1,0,0,0]
+        },
+        {
+          "id": "Plate 18",
+          "otu_id": ["24 HRS", "96 HRS", "VISIT 1", "VISIT 2", "VISIT 3", "VISIT 4", "VISIT 5", "VISIT 6"],
+          "sample_values": [0,0,1,1,0,0,0,0]
+        },
+        {
+          "id": "Plate 19",
+          "otu_id": ["24 HRS", "96 HRS", "VISIT 1", "VISIT 2", "VISIT 3", "VISIT 4", "VISIT 5", "VISIT 6"],
+          "sample_values": [0,0,2,0,1,0,0,0]
+        },
+        {
+          "id": "Plate 20",
+          "otu_id": ["24 HRS", "96 HRS", "VISIT 1", "VISIT 2", "VISIT 3", "VISIT 4", "VISIT 5", "VISIT 6"],
+          "sample_values": [0,0,3,2,2,0,0,1]
+        },
+        {
+          "id": "Plate 21",
+          "otu_id": ["24 HRS", "96 HRS", "VISIT 1", "VISIT 2", "VISIT 3", "VISIT 4", "VISIT 5", "VISIT 6"],
+          "sample_values": [0,0,2,0,1,1,0,1]
+        },
+        {
+          "id": "Plate 22",
+          "otu_id": ["24 HRS", "96 HRS", "VISIT 1", "VISIT 2", "VISIT 3", "VISIT 4", "VISIT 5", "VISIT 6"],
+          "sample_values": [0,0,1,1,1,1,1,1]
+        },
+        {
+          "id": "Plate 23",
+          "otu_id": ["24 HRS", "96 HRS", "VISIT 1", "VISIT 2", "VISIT 3", "VISIT 4", "VISIT 5", "VISIT 6"],
+          "sample_values": [0,0,0,0,0,0,0,0]
+        },
+        {
+          "id": "Plate 24",
+          "otu_id": ["24 HRS", "96 HRS", "VISIT 1", "VISIT 2", "VISIT 3", "VISIT 4", "VISIT 5", "VISIT 6"],
+          "sample_values": [0,0,2,2,1,0,0,1]
+        },
+        {
+          "id": "Plate 25",
+          "otu_id": ["24 HRS", "96 HRS", "VISIT 1", "VISIT 2", "VISIT 3", "VISIT 4", "VISIT 5", "VISIT 6"],
+          "sample_values": [0,0,1,1,0,1,0,1]
+        },
+        {
+          "id": "Plate 26",
+          "otu_id": ["24 HRS", "96 HRS", "VISIT 1", "VISIT 2", "VISIT 3", "VISIT 4", "VISIT 5", "VISIT 6"],
+          "sample_values": [0,0,1,2,0,0,0,0]
+        },
+        {
+          "id": "Plate 27",
+          "otu_id": ["24 HRS", "96 HRS", "VISIT 1", "VISIT 2", "VISIT 3", "VISIT 4", "VISIT 5", "VISIT 6"],
+          "sample_values": [0,0,0,0,0,1,0,0]
+        },
+        {
+          "id": "Plate 28",
+          "otu_id": ["24 HRS", "96 HRS", "VISIT 1", "VISIT 2", "VISIT 3", "VISIT 4", "VISIT 5", "VISIT 6"],
+          "sample_values": [1,0,3,1,1,0,0,0]
+        },
+        {
+          "id": "Plate 29",
+          "otu_id": ["24 HRS", "96 HRS", "VISIT 1", "VISIT 2", "VISIT 3", "VISIT 4", "VISIT 5", "VISIT 6"],
+          "sample_values": [0,1,2,0,0,0,0,0]
+        },
+        {
+          "id": "Plate 30",
+          "otu_id": ["24 HRS", "96 HRS", "VISIT 1", "VISIT 2", "VISIT 3", "VISIT 4", "VISIT 5", "VISIT 6"],
+          "sample_values": [0,0,2,2,1,0,0,1]
+        },
+        {
+          "id": "Plate 31",
+          "otu_id": ["24 HRS", "96 HRS", "VISIT 1", "VISIT 2", "VISIT 3", "VISIT 4", "VISIT 5", "VISIT 6"],
+          "sample_values": [0,0,0,2,2,1,1,2]
+        },
+        {
+          "id": "Plate 32",
+          "otu_id": ["24 HRS", "96 HRS", "VISIT 1", "VISIT 2", "VISIT 3", "VISIT 4", "VISIT 5", "VISIT 6"],
+          "sample_values": [0,0,2,2,1,0,0,1]
+        },
+        {
+          "id": "Plate 33",
+          "otu_id": ["24 HRS", "96 HRS", "VISIT 1", "VISIT 2", "VISIT 3", "VISIT 4", "VISIT 5", "VISIT 6"],
+          "sample_values": [0,0,0,1,0,0,0,1]
+        },
+        {
+          "id": "Plate 34",
+          "otu_id": ["24 HRS", "96 HRS", "VISIT 1", "VISIT 2", "VISIT 3", "VISIT 4", "VISIT 5", "VISIT 6"],
+          "sample_values": [0,0,3,1,1,0,0,0]
+        },
+        {
+          "id": "Plate 35",
+          "otu_id": ["24 HRS", "96 HRS", "VISIT 1", "VISIT 2", "VISIT 3", "VISIT 4", "VISIT 5", "VISIT 6"],
+          "sample_values": [0,0,1,1,1,1,0,1]
+        },
+        {
+          "id": "Plate 36",
+          "otu_id": ["24 HRS", "96 HRS", "VISIT 1", "VISIT 2", "VISIT 3", "VISIT 4", "VISIT 5", "VISIT 6"],
+          "sample_values": [0,0,1,1,0,0,0,0]
+        },
+        {
+          "id": "Plate 37",
+          "otu_id": ["24 HRS", "96 HRS", "VISIT 1", "VISIT 2", "VISIT 3", "VISIT 4", "VISIT 5", "VISIT 6"],
+          "sample_values": [0,0,1,0,0,1,0,0]
+        },
+        {
+          "id": "Plate 38",
+          "otu_id": ["24 HRS", "96 HRS", "VISIT 1", "VISIT 2", "VISIT 3", "VISIT 4", "VISIT 5", "VISIT 6"],
+          "sample_values": [0,0,1,1,1,0,0,0]
+        },
+        {
+          "id": "Plate 39",
+          "otu_id": ["24 HRS", "96 HRS", "VISIT 1", "VISIT 2", "VISIT 3", "VISIT 4", "VISIT 5", "VISIT 6"],
+          "sample_values": [0,0,1,1,1,0,0,0]
+        },
+        {
+          "id": "Plate 40",
+          "otu_id": ["24 HRS", "96 HRS", "VISIT 1", "VISIT 2", "VISIT 3", "VISIT 4", "VISIT 5", "VISIT 6"],
+          "sample_values": [0,0,2,1,1,1,0,1]
+        },
+        {
+          "id": "Plate 41",
+          "otu_id": ["24 HRS", "96 HRS", "VISIT 1", "VISIT 2", "VISIT 3", "VISIT 4", "VISIT 5", "VISIT 6"],
+          "sample_values": [0,0,1,1,0,0,0,0]
+        },
+        {
+          "id": "Plate 42",
+          "otu_id": ["24 HRS", "96 HRS", "VISIT 1", "VISIT 2", "VISIT 3", "VISIT 4", "VISIT 5", "VISIT 6"],
+          "sample_values": [0,0,4,1,1,1,1,0]
+        },
+        {
+          "id": "Plate 43",
+          "otu_id": ["24 HRS", "96 HRS", "VISIT 1", "VISIT 2", "VISIT 3", "VISIT 4", "VISIT 5", "VISIT 6"],
+          "sample_values": [0,0,1,0,0,0,0,0]
+        },
+        {
+          "id": "Plate 44",
+          "otu_id": ["24 HRS", "96 HRS", "VISIT 1", "VISIT 2", "VISIT 3", "VISIT 4", "VISIT 5", "VISIT 6"],
+          "sample_values": [0,0,0,0,1,0,0,0]
+        },
+        {
+          "id": "Plate 45",
+          "otu_id": ["24 HRS", "96 HRS", "VISIT 1", "VISIT 2", "VISIT 3", "VISIT 4", "VISIT 5", "VISIT 6"],
+          "sample_values": [0,0,1,1,1,0,0,0]
+        },
+        {
+          "id": "Plate 46",
+          "otu_id": ["24 HRS", "96 HRS", "VISIT 1", "VISIT 2", "VISIT 3", "VISIT 4", "VISIT 5", "VISIT 6"],
+          "sample_values": [0,0,1,0,0,0,0,0]
+        }
+       ]
+}

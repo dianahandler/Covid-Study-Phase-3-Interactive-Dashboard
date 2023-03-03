@@ -1,11 +1,9 @@
 # Phase3_Interactive
 
-Phase 3 Dashboard found here: https://dianahandler.github.io/Phase3_Interactive/
-
-https://dianahandler.github.io/Covid-Study-Phase-3-Interactive-Dashboard/
+Phase 3 Dashboard found here:  https://dianahandler.github.io/Covid-Study-Phase-3-Interactive-Dashboard/
 
 
-Covid-Study-Phase-3-Interactive-Dashboard
+
 
 This interactive dashboard consists of data from our IMPACC study. individual patient information was excluded to maintain confidentiality. Each plate consists of up to 20 blood samples of COVID-infected patients. These samples were stained with our proprietary IMPACC antibody cocktail and analyzed through our CyTOF mass cytometer in order to profile the immune cells in each sample.
 
